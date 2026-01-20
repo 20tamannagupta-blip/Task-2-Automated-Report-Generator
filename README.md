@@ -12,4 +12,6 @@ Report Generation Scripts – The report_generator folder contains Python script
 Output Report – The final result is the output_report.pdf file, which is automatically created based on the data and formatting logic defined in the scripts.
 This project demonstrates practical applications of Python in data handling, report automation, and PDF generation, making it an excellent tool for data analysts, students, and professionals who need to generate reports quickly and accurately.
 
+#OUTPUT:
+        [output_report.pdf](https://github.com/user-attachments/files/24728811/output_report.pdf)
         
